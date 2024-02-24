@@ -145,6 +145,8 @@ tr th {
 .tvv-item img {
     width: 100%;
     pointer-events: none
+    -webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
 .tvv-item:after {
