@@ -100,14 +100,6 @@ tr th {
     overflow: hidden;
     border-radius: 4px;
     filter: contrast(100%)
-   -webkit-filter: blur(3px);
-	filter: blur(3px);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
-}
-.tvv-item:hover {
-  -webkit-filter: blur(0);
-	filter: blur(0);
 }
 .tvv-item>* {
     margin: 0;
