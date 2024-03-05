@@ -9,7 +9,7 @@ form.addEventListener("submit",(e)=>{
     const authenticated = authentication(username,password)
 
     if(authenticated){
-        window.location.href = "https://distarkmovie.netlify.app"
+        window.location.href = "./index.html"
     }else{
         alert("wrong")
     }
