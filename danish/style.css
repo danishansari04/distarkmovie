@@ -358,13 +358,13 @@ tr th {
 
 
 
-tvv-item:focus {
+a:focus {
 
-    border: 20px solid white;
+    border: 30px solid white;
 
-    outline: none; 
+    
 
-    box-shadow: 40px white;
+    
 
 }
 
