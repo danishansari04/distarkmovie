@@ -361,6 +361,7 @@ tr th {
 a:focus {
 
     border: 30px solid white;
+    background-color : white;
 
     
 
