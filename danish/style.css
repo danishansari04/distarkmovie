@@ -361,7 +361,7 @@ tr th {
 a:focus {
 
     outline: none;
-  box-shadow: 0 0 0 50px hsl(0, 100%, 100%);
+  box-shadow: 0 0 0 5px hsl(0, 100%, 100%);
 }
     
 
