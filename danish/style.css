@@ -360,11 +360,11 @@ tr th {
 
 a:focus {
 
-    border: 20px solid black;
+    border: 20px solid white;
 
     outline: none; 
 
-    box-shadow: 40px black;
+    box-shadow: 40px white;
 
 }
 
