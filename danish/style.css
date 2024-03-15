@@ -360,9 +360,9 @@ tr th {
 
 a:focus {
 
-    border: 35px darkred;
-    background-color : white;
-
+    outline: none;
+  box-shadow: 0 0 0 3px hsla(220, 100%, 50%, 80%);
+}
     
 
     
