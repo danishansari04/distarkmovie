@@ -358,9 +358,9 @@ tr th {
 
 
 
-tvv-name:focus {
+a:focus {
 
-    border: 30px solid white;
+    border: 30px white;
     background-color : white;
 
     
