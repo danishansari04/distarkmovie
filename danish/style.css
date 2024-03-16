@@ -361,8 +361,8 @@ tr th {
 a:focus {
 
     background-color: darkred;
-    border-radius: 100%;
-    float: left;
+    border-radius: 20px;
+    
     
 }
     
