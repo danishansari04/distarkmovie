@@ -1,31 +1,59 @@
 <html>
+
   <style>
+
     @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
 
+
+
 p {
+
   font-family: Montserrat, sans-serif;
+
   font-size: 2em;
-  color:  white;
+  color: white;
+  
+
 }
 body {
-  background-color : black;
-}
+  background-color: black;
+
+
   </style>
+
 <head>
-  <meta http-equiv='refresh' content='1;url='https://distarkmovie.netlify.app/danish/index.html' />
+
+  <meta http-equiv='refresh' content='1;url=https://distarkmovie.netlify.app/danish/index.html' />
+
   <title>Redirect Page</title>
+
 </head>
 
+
+
 <body>
+
   <p class="count">Redirect Page </p>
+
 </body>
+
   <script>
+
     const count = document.querySelector(".count");
 
+
+
 setInterval(function () {
+
   count.innerHTML = count.innerHTML.replace(/\▶️/g, "◾️");
+
   count.innerHTML += "▶️ ";
+
 }, 1000);
 
+
+
   </script>
+
 </html>
+
